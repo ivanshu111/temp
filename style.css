@@ -1,0 +1,24 @@
+#content {
+  text-align: center;
+  margin-top: 10%;
+}
+#input {
+  height: 40px;
+  text-align: center;
+  border-radius: 3px;
+}
+h1 {
+  font-family: "Anton", sans-serif;
+  color: aliceblue;
+  font-stretch: expanded;
+}
+#text {
+  font-size: 28px;
+  color: whitesmoke;
+  font-weight: 300;
+  letter-spacing: 1px;
+}
+#output {
+  font-size: 30px;
+  color: white;
+}
